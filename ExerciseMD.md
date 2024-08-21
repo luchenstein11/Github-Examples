@@ -11,14 +11,14 @@ Blockquote
 >blockquote
 
 Unordered list
--First
--Second
--Third
+- First
+- Second
+- Third
 
 Ordered list
-1.First
-1.Second
-1.Third
+1. First
+1. Second
+1. Third
 
 Link
 [title](Https://www.example.com)
