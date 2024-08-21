@@ -59,20 +59,20 @@ Subscript
 H~2~O
 
 Superscript
-X^2^
+X^ 2^
 
 Heading ID
 ### My Great Heading {#custom-id}
 
 Definition List
 term
-: definition
+:definition
 
 Strikethrough
-~~The World is flat. ~~
+~~ The World is flat ~~
 
 Highlight
-I need to highlight these ==very important words==.
+I need to highlight these == very important words ==.
 
 
 
