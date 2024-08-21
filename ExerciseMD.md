@@ -5,7 +5,7 @@ Headings
 
 Text Formating
 *Italicized text*
-*bold text*
+**bold text**
 
 Blockquote
 >blockquote
